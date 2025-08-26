@@ -4,17 +4,19 @@
     "url": "https://vertastack.com",
     "icon": "https://icons.duckduckgo.com/ip3/vertastack.com.ico",
     "slug": "verta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 528,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
+    "dailyMinutesDown": {
+      "2025-08-26": 12
+    }
   }
 ]
