@@ -7,6 +7,3 @@ sites:
     url: https://vertastack.com
 assignees: 
   - ngdimitrov
-
-status-website:
-  cname: status.example.com
